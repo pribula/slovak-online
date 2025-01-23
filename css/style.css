@@ -233,7 +233,7 @@ html ::after {
 }
 
 body {
-  background: url(./img/фон.JPG) center/cover no-repeat;
+  background: url(../img/фон.JPG) center/cover no-repeat;
   width: 100%;
   height: -moz-max-content;
   height: max-content;
